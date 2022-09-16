@@ -7,7 +7,7 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/vortexmethods/fn2practice3term.svg)
 
-Copyright (C) 2021 Марчевский И.К., Попов А.Ю.
+Copyright (C) 2022 Марчевский И.К., Попов А.Ю.
 
 
 СОДЕРЖАНИЕ РЕПОЗИТОРИЯ
