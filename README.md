@@ -3,11 +3,11 @@
 
 (кафедра ФН2 МГТУ им. Н.Э. Баумана)
 
-<p align="left"><img src="http://www.sgau.ru/files/pages/12132/1423810364general_pages_13_february_2015_i12132_proizvodstvennaya_praktika.jpg"></p>
+<p align="left"><img src="https://www.vavilovsar.ru/files/pages/12132/1423810364general_pages_13_february_2015_i12132_proizvodstvennaya_praktika.jpg"></p>
 
 ![Repo Size](https://img.shields.io/github/repo-size/vortexmethods/fn2practice3term.svg)
 
-Copyright (C) 2023 Марчевский И.К., Попов А.Ю.
+Copyright (C) 2024 Марчевский И.К., Попов А.Ю., Касьянова К.А.
 
 
 СОДЕРЖАНИЕ РЕПОЗИТОРИЯ
